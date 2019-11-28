@@ -18,6 +18,6 @@ P.S.: Feel free to clone the project to see how it works. All you need is:
 <br>
 2) Run npm install;
 <br>
-3) Run nmpm test (to run all tests)
+3) Run npm test (to run all tests).
 <br><br>
 Thank YOU!!
