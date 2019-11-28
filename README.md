@@ -1,6 +1,6 @@
 # Automated-tests-with-JavaScript
 <br>
-Project description: The project represent automated tests that cover the UI part of the official Rooms Ryanair (https://rooms.ryanair.com/ie/en) website.
+Project description: The project represents automated tests that cover the UI part of the official Rooms Ryanair (https://rooms.ryanair.com/ie/en) website.
 <br><br>
 Tools and technologies: 
 <br>
