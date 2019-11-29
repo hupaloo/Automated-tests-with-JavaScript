@@ -9,7 +9,7 @@
     "test-mocha": "node node_modules/protractor/built/cli.js ./mocha/conf.js",
     "test-cucumber": "node node_modules/protractor/built/cli.js ./cucumber/conf.js"
   },
-  "author": "S.Khvalinskyi",
+  "author": "M.Hupalo",
   "license": "ISC",
   "dependencies": {
     "chromedriver": "^78.0.1",
