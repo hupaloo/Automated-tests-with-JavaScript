@@ -18,7 +18,7 @@
     "jasmine-allure-reporter": "1.0.2",
     "jasmine-spec-reporter": "2.3.0",
     "jasmine2-reporter": "1.0.1",
-    "log4js": "5.0.0",
+    "log4js": "6.4.0",
     "jasmine-data-provider": "2.2.0",
     "mocha": "6.2.2",
     "cucumber": "6.0.3",
