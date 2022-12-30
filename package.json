@@ -20,7 +20,7 @@
     "jasmine2-reporter": "1.0.1",
     "log4js": "5.0.0",
     "jasmine-data-provider": "2.2.0",
-    "mocha": "6.2.2",
+    "mocha": "10.2.0",
     "cucumber": "6.0.3",
     "cucumber-pretty": "6.0.0",
     "protractor-cucumber-framework": "6.1.3",
