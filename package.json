@@ -34,7 +34,7 @@
     "eslint-plugin-protractor": "2.1.0",
     "protractor": "5.4.2",
     "protractor-jasmine2-html-reporter": "0.0.7",
-    "xunit-viewer": "5.1.11",
+    "xunit-viewer": "7.2.0",
     "dateformat": "3.0.3"
   }
 }
